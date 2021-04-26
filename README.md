@@ -32,6 +32,29 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 
+
+<a href="https://nginx.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+</a> 
+
+<a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg" alt="recat" width="40" height="40"/> 
+</a> 
+
+
+<a href="https://redis.io/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redix" width="40" height="40"/> 
+</a> 
+
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/recat/recat-original.svg" alt="recat" width="40" height="40"/> 
+</a> 
+
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="recat" width="40" height="40"/> 
+</a> 
+
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
