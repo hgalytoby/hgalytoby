@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
 </a> 
 
-### 
+### IDE
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
