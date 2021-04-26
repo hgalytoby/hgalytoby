@@ -11,7 +11,7 @@
   
 <hr>
 
-#### Languages / Frameworks / Tools:  
+#### Languages/ Tools:  
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -20,9 +20,29 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
+### Web 
+
 <a href="https://www.djangoproject.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
 </a>
+
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/recat/recat-original.svg" alt="recat" width="40" height="40"/> 
+</a> 
+
+
+<a href="https://nginx.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+</a> 
+
+<a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg" alt="uwsgi" width="40" height="40"/> 
+</a> 
+
+
+
+
+### DataBase
 
 <a href="https://www.postgresql.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
@@ -32,27 +52,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> 
 
-
-<a href="https://nginx.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-
-<a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg" alt="recat" width="40" height="40"/> 
-</a> 
-
-
 <a href="https://redis.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redix" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
 </a> 
 
-<a href="https://reactjs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/recat/recat-original.svg" alt="recat" width="40" height="40"/> 
-</a> 
-
+### 
 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="recat" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
 </a> 
 
 <!--
