@@ -1,7 +1,44 @@
 ### Hi there 👋
+  <h1 align="center">Hi there I'm Proladon 🔰</h1>
+  <p align="center"> I'm a Industrial Designer / FrontEnd / Youtuber </p>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
+     <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+    </a>
+    <br />
+    <br />
+    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=react"/>
+  </p>
+  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hgalytoby&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+  
+<hr>
 
-<img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+#### Languages / Frameworks / Tools:  
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
