@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
   <p align="center">
-    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=react"/>
+    <img alt="github" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=react"/>
   </p>
   
 <p align="center">
