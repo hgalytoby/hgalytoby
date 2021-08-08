@@ -1,17 +1,24 @@
 <!-- ### Hi there 👋 -->
-  <p align="center">
-    <img alt="github" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=react"/>
-  </p>
-  
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hgalytoby&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-  
-<hr>
+## Hello
+<img  width="300" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
 
-#### Languages
+```python
+Class Dudulu:
+    languages = ["Python", "JavaScript"]
+    web = ["Django", "Flask", "Vue", "React"]
+    database = ["PostgreSQL", "Redis", "MongoDB"]
+```
+<br>
+
+## **GitHub Estatísticas**
+<img  width="450" align="right" alt="github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgalytoby&hide=html&layout=compact&theme=radical"/>
+<img  alt="github" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=radical"/>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hgalytoby&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgalytoby&theme=monokai)
+
+## **Languages**
+
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -20,10 +27,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
-### Web 
-
+## **Web** 
 <a href="https://www.djangoproject.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
 </a>
 
 <a href="https://reactjs.org/" target="_blank"> 
@@ -44,8 +54,7 @@
 
 
 
-
-### DataBase
+## **DataBase**
 
 <a href="https://www.postgresql.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
