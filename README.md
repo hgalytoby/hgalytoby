@@ -7,6 +7,7 @@ Class Dudulu:
     languages = ["Python", "JavaScript"]
     web = ["Django", "Flask", "Vue", "React"]
     database = ["PostgreSQL", "Redis", "MongoDB"]
+    bot = ["Line", "Discord"]
 ```
 <br>
 
