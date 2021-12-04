@@ -4,10 +4,13 @@
 
 ```python
 Class Dudulu:
-    languages = ["Python", "JavaScript"]
-    web = ["Django", "Flask", "Vue", "React"]
+    programming_languages = ["Python", "JavaScript"]
+    web_scraping ["Requests", "Selenium"," BeautifulSoup"]
+    web_development = ["Django", "Flask", "Vue"]
     database = ["PostgreSQL", "Redis", "MongoDB"]
     bot = ["Line", "Discord"]
+    devops = ["Git", "Nginx", "Docker", "Docker Compose"]
+    cloud = ["Gcp"]
 ```
 <br>
 
@@ -18,8 +21,7 @@ Class Dudulu:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hgalytoby&theme=monokai)
 
-## **Languages**
-
+## **Programming Languages**
 <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a>
@@ -28,7 +30,7 @@ Class Dudulu:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
-## **Web** 
+## **Web Development** 
 <a href="https://www.djangoproject.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
 </a>
@@ -45,18 +47,7 @@ Class Dudulu:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
 </a> 
 
-<a href="https://nginx.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-
-<a href="https://uwsgi-docs.readthedocs.io/en/latest/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uwsgi/uwsgi-original.svg" alt="uwsgi" width="40" height="40"/> 
-</a> 
-
-
-
 ## **DataBase**
-
 <a href="https://www.postgresql.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
@@ -69,12 +60,27 @@ Class Dudulu:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
 </a> 
 
-### IDE
+## **DevOps**
+<a href="https://www.docker.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+</a> 
 
+<a href="https://git-scm.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+</a> 
+
+<a href="https://nginx.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+</a> 
+
+### **IDE**
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
 </a> 
 
+<a href="https://code.visualstudio.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+</a>
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
