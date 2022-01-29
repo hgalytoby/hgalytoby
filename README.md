@@ -9,7 +9,7 @@ Class Dudulu:
     web_development = ["Django", "Flask", "Vue"]
     database = ["PostgreSQL", "Redis", "MongoDB"]
     bot = ["Line", "Discord"]
-    devops = ["Git", "Nginx", "Docker", "Docker Compose"]
+    devops = ["Nginx", "Docker", "Docker Compose"]
     cloud = ["Gcp"]
 ```
 <br>
