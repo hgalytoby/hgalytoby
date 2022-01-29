@@ -18,7 +18,7 @@ Class Dudulu:
 <img  align="right" alt="github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgalytoby&hide=html&layout=compact&theme=radical"/>
 <img  width="450" alt="github" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=radical"/>
 <img  width="450" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hgalytoby&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=hgalytoby&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/  align="center" alt="github" style="max-width: 100%;">
+<img  align="center" alt="github" style="max-width: 100%;" src="https://github-profile-trophy.vercel.app/?username=hgalytoby&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true">
 
 
 ## **Programming Languages**
