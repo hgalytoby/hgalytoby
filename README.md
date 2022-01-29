@@ -77,6 +77,10 @@ Class Dudulu:
 <a href="https://code.visualstudio.com/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </a>
+
+<hr>
+<img src="https://activity-graph.herokuapp.com/graph?username=hgalytoby&theme=react-dark">
+
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
