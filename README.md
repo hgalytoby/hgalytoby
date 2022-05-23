@@ -5,7 +5,7 @@
 ```python
 Class Dudulu:
     programming_languages = ["Python", "JavaScript"]
-    web_scraping ["Requests", "Selenium"," BeautifulSoup"]
+    web_scraping ["Requests", "Selenium"]
     web_development = ["Django", "Flask", "Vue"]
     database = ["PostgreSQL", "Redis", "MongoDB"]
     bot = ["Line", "Discord"]
