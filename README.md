@@ -6,7 +6,7 @@
 Class Dudulu:
     programming_languages = ["Python", "JavaScript"]
     web_scraping ["Requests", "Selenium"]
-    web_development = ["Django", "Flask", "Vue"]
+    web_development = ["Django"]
     database = ["PostgreSQL", "Redis", "MongoDB"]
     bot = ["Line", "Discord"]
     devops = ["Nginx", "Docker", "Docker Compose"]
