@@ -1,13 +1,14 @@
 <!-- ### Hi there 👋 -->
 ## Hello
-<img  width="300" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
+<img  width="390" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```python
 Class Dudulu:
     programming_languages = ["Python", "JavaScript"]
     web_scraping ["Requests", "Selenium"]
-    web_development = ["Django"]
+    web_development = ["Django", "FastApi", "Vue"]
     database = ["PostgreSQL", "Redis", "MongoDB"]
+    message_queue = ["Kafka"]
     bot = ["Line", "Discord"]
     devops = ["Nginx", "Docker", "Docker Compose"]
     cloud = ["Gcp"]
@@ -36,7 +37,11 @@ Class Dudulu:
 
 ## **Web Development** 
 <a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> 
 </a>
 
 <a href="https://vuejs.org/" target="_blank"> 
@@ -55,6 +60,12 @@ Class Dudulu:
 <a href="https://redis.io/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
 </a> 
+
+## **MessageQueue**
+<a href="https://kafka.apache.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
+</a> 
+
 
 ## **DevOps**
 <a href="https://www.docker.com/" target="_blank"> 
