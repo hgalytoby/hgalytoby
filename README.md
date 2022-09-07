@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
-## Hello
+## <a href="https://duduru.website/">Hello 簡單自我介紹</a>
 <img  width="390" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
+
 
 ```python
 Class Dudulu:
