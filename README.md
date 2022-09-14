@@ -29,7 +29,7 @@ Class Dudulu:
 
 ## **LeetCode**
 <p align="center" dir="auto">
-  <a href="https://leetcode.com/hgalytoby/">
+  <a href="https://leetcode.com/hgalytoby/" target="_blank">
     <img align="center" src="https://leetcard.jacoblin.cool/hgalytoby?theme=unicorn&font=ABeeZee&ext=heatmap" style="max-width: 100%;">
   </a>
 </p>
