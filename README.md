@@ -27,12 +27,14 @@ Class Dudulu:
   </a>
 </p>
 
+<!--
 ## [**LeetCode**](https://leetcode.com/hgalytoby/)
 <p align="center" dir="auto">
   <a href="https://leetcard.jacoblin.cool/hgalytoby?theme=unicorn&font=ABeeZee&ext=heatmap&cache=0" target="_blank">
     <img align="center" src="https://leetcard.jacoblin.cool/hgalytoby?theme=unicorn&font=ABeeZee&ext=heatmap&cache=0" style="max-width: 100%;">
   </a>
 </p>
+--->
 
 
 ## **Programming Languages**
