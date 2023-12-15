@@ -36,6 +36,8 @@ Class Dudulu:
 </p>
 --->
 
+### 😄 Views
+<img src="https://moe-counter.glitch.me/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
 
 ## **Programming Languages**
 <a href="https://www.python.org" target="_blank"> 
@@ -97,10 +99,8 @@ Class Dudulu:
 </a>
 
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=hgalytoby&theme=react-dark">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hgalytoby&theme=react" alt="hgalytoby" />
 
-### 😄 Views
-<img src="https://moe-counter.glitch.me/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
