@@ -99,6 +99,8 @@ Class Dudulu:
 <hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=hgalytoby&theme=react-dark">
 
+### 😄 Views
+<img src="https://moe-counter.glitch.me/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
