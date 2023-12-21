@@ -15,7 +15,7 @@ Class Dudulu:
     cloud = ["Gcp"]
 ```
 <br>
-
+<!--
 ## **GitHub Estatísticas**
 <img  align="right" alt="github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgalytoby&hide=html&layout=compact&theme=radical"/>
 <img  width="450" alt="github" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=radical"/>
@@ -26,6 +26,9 @@ Class Dudulu:
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=hgalytoby&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" style="max-width: 100%;">
   </a>
 </p>
+--->
+
+![image](https://raw.githubusercontent.com/hgalytoby/hgalytoby/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 ## [**LeetCode**](https://leetcode.com/hgalytoby/)
@@ -98,8 +101,10 @@ Class Dudulu:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
 </a>
 
+<!--
 <hr>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hgalytoby&theme=react" alt="hgalytoby" />
+--->
 
 <!--
 **hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
