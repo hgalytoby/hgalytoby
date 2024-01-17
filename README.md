@@ -1,7 +1,8 @@
 <!-- ### Hi there 👋 -->
-## <a href="https://duduru.website/" target="_blank">Hello 簡單自我介紹</a>
-<img  width="390" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%F0%9F%91%8B%2C+self-introduction.%F0%9F%98%81)](https://git.io/typing-svg)
+
+<img  width="390" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```python
 Class Dudulu:
