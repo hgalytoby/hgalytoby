@@ -41,7 +41,7 @@ Class Dudulu:
 --->
 
 ### 😄 Views
-<img src="https://moe-counter.glitch.me/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
+<img src="https://counter.duduru.website/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
 
 ## **Programming Languages**
 <a href="https://www.python.org" target="_blank"> 
