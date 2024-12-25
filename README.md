@@ -12,8 +12,8 @@ Class Dudulu:
     database = ["PostgreSQL", "Redis", "MongoDB"]
     message_queue = ["Kafka"]
     bot = ["Line", "Discord"]
-    devops = ["Nginx", "Docker", "Docker Compose"]
-    cloud = ["Gcp"]
+    devops = ["Nginx", "Docker", "Docker-Compose"]
+    cloud = ["GCP"]
 ```
 <br>
 <!--
