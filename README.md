@@ -7,9 +7,9 @@
 ```python
 Class Dudulu:
     programming_languages = ["Python", "JavaScript"]
-    web_scraping ["Requests", "Selenium"]
-    web_development = ["Django", "FastApi", "Vue"]
-    database = ["PostgreSQL", "Redis", "MongoDB"]
+    web_scraping ["requests", "Selenium", "httpx", "aiohttp"]
+    web_development = ["Django", "FastAPI", "Vue"]
+    database = ["PostgreSQL", "Redis", "MongoDB", "Elasticsearch"]
     message_queue = ["Kafka"]
     bot = ["Line", "Discord"]
     devops = ["Nginx", "Docker", "Docker-Compose"]
@@ -65,7 +65,7 @@ Class Dudulu:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
 </a> 
 
-## **Database**
+## **DataBase**
 <a href="https://www.postgresql.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
@@ -76,6 +76,10 @@ Class Dudulu:
 
 <a href="https://redis.io/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.elastic.co/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch-original.svg" width="40" height="40"/> 
 </a> 
 
 ## **MessageQueue**
