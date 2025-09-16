@@ -65,7 +65,7 @@ Class Dudulu:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
 </a> 
 
-## **DataBase**
+## **Database**
 <a href="https://www.postgresql.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
