@@ -39,6 +39,12 @@ Class Dudulu:
   </a>
 </p>
 
+<p align="center" dir="auto">
+  <a href="https://leetcode.com/u/hgalytoby/" target="_blank">
+    <img align="center" src="https://leetgauge.duduru.website/api/v1/cards/languages.svg?theme=dark" style="max-width: 100%;">
+  </a>
+</p>
+
 ### 😄 Views
 <img src="https://counter.duduru.website/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
 
