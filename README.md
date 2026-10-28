@@ -39,8 +39,6 @@ class Dudulu:
 | :-- | :-- |
 | [MyselfAnimeDownloader](https://github.com/hgalytoby/MyselfAnimeDownloader) ![Stars](https://img.shields.io/github/stars/hgalytoby/MyselfAnimeDownloader?style=flat&logo=github&label=%E2%AD%90) | Cross-platform desktop app for searching and downloading anime from Myself |
 | [Heartopia MIDI Player](https://heartopia-midi-player.duduru.website/) | Windows app that plays MIDI files on the in-game piano in Heartopia |
-| [LeetGauge](https://leetgauge.duduru.website/) | LeetCode language-stats card service (powers the card below) |
-| [rag-demo](https://github.com/hgalytoby/rag-demo) | Chat with your PDFs — FastAPI + ChromaDB + Vue 3 |
 
 ## 🧩 [LeetCode](https://leetcode.com/u/hgalytoby/)
 
