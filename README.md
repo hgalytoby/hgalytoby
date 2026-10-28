@@ -1,132 +1,69 @@
-<!-- ### Hi there 👋 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I%27m+Dudulu+%F0%9F%91%8B;Python+Backend+Developer;Building+with+LLMs+%26+AI+tools+%F0%9F%A4%96" alt="Hi there, I'm Dudulu" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%F0%9F%91%8B%2C+self-introduction.%F0%9F%98%81)](https://git.io/typing-svg)
+<img width="300" align="right" src="https://i.imgur.com/ugWb6BU.gif" alt="" />
 
-<img  width="390" align="right" src="https://i.imgur.com/ugWb6BU.gif" />
 
 ```python
-Class Dudulu:
-    programming_languages = ["Python", "JavaScript"]
-    web_scraping ["requests", "Selenium", "httpx", "aiohttp"]
-    web_development = ["Django", "FastAPI", "Vue"]
-    database = ["PostgreSQL", "Redis", "MongoDB", "Elasticsearch"]
-    message_queue = ["Kafka"]
-    bot = ["Line", "Discord"]
-    devops = ["Nginx", "Docker", "Docker-Compose"]
-    cloud = ["GCP"]
+class Dudulu:
+    role = "Python Backend Developer"
+    languages = ["Python", "JavaScript"]
+    web = ["Django", "FastAPI", "Vue"]
+    database = ["PostgreSQL", "MongoDB", "Elasticsearch"]
+    cache_and_mq = ["Redis", "Kafka"]
+    scraping = ["requests", "httpx", "aiohttp", "Selenium"]
+    bots = ["LINE", "Discord"]
+    devops = ["Docker", "Docker Compose", "Nginx", "GCP"]
+    ai_tools = ["Claude Code", "Codex"]
 ```
-<br>
-<!--
-## **GitHub Estatísticas**
-<img  align="right" alt="github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgalytoby&hide=html&layout=compact&theme=radical"/>
-<img  width="450" alt="github" src="https://github-readme-stats.vercel.app/api?username=hgalytoby&show_icons=true&theme=radical"/>
-<img  width="450" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hgalytoby&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
-<br><br>
-<p align="center" dir="auto">
-  <a href="https://github.com/hgalytoby">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=hgalytoby&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" style="max-width: 100%;">
-  </a>
-</p>
---->
 
-![image](https://raw.githubusercontent.com/hgalytoby/hgalytoby/main/profile-3d-contrib/profile-night-rainbow.svg)
+<br clear="right" />
 
+## 🛠️ Tech Stack
 
-## [**LeetCode**](https://leetcode.com/hgalytoby/)
-<p align="center" dir="auto">
-  <a href="https://leetcode.com/u/hgalytoby/" target="_blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/hgalytoby?theme=unicorn&font=ABeeZee&ext=heatmap&cache=0" style="max-width: 100%;">
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,django,fastapi,vue,postgres,mongodb,elasticsearch,redis,kafka,docker,nginx,gcp,selenium,pycharm,vscode&perline=8" alt="Tech stack" />
 </p>
 
-<p align="center" dir="auto">
-  <a href="https://leetcode.com/u/hgalytoby/" target="_blank">
-    <img align="center" src="https://leetgauge.duduru.website/api/v1/cards/languages.svg?theme=dark" style="max-width: 100%;">
+## 🤖 AI Workflow
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge" alt="Codex" />
+</p>
+
+## 🚀 Projects
+
+| Project | Description |
+| :-- | :-- |
+| [MyselfAnimeDownloader](https://github.com/hgalytoby/MyselfAnimeDownloader) ![Stars](https://img.shields.io/github/stars/hgalytoby/MyselfAnimeDownloader?style=flat&logo=github&label=%E2%AD%90) | Cross-platform desktop app for searching and downloading anime from Myself |
+| [Heartopia MIDI Player](https://heartopia-midi-player.duduru.website/) | Windows app that plays MIDI files on the in-game piano in Heartopia |
+| [LeetGauge](https://leetgauge.duduru.website/) | LeetCode language-stats card service (powers the card below) |
+| [rag-demo](https://github.com/hgalytoby/rag-demo) | Chat with your PDFs — FastAPI + ChromaDB + Vue 3 |
+
+## 🧩 [LeetCode](https://leetcode.com/u/hgalytoby/)
+
+<p align="center">
+  <a href="https://leetcode.com/u/hgalytoby/">
+    <img src="https://leetcard.jacoblin.cool/hgalytoby?theme=unicorn&font=ABeeZee&ext=heatmap&cache=0" alt="LeetCode stats" />
   </a>
 </p>
 
-### 😄 Views
-<img src="https://counter.duduru.website/get/@hgalytoby?theme=rule34" alt="hgalytoby" />
+<p align="center">
+  <a href="https://leetcode.com/u/hgalytoby/">
+    <img src="https://leetgauge.duduru.website/api/v1/cards/languages.svg?theme=dark" alt="LeetCode languages" />
+  </a>
+</p>
 
-## **Programming Languages**
-<a href="https://www.python.org" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
+<p align="center">
+  📝 Solutions: <a href="https://github.com/hgalytoby/LeetCode">hgalytoby/LeetCode</a>
+</p>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
+## 📈 Contributions
 
-## **Web Development** 
-<a href="https://www.djangoproject.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-</a>
+![Contributions](https://raw.githubusercontent.com/hgalytoby/hgalytoby/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<a href="https://fastapi.tiangolo.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" alt="fastapi" width="40" height="40"/> 
-</a>
-
-<a href="https://vuejs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
-</a> 
-
-## **DataBase**
-<a href="https://www.postgresql.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-
-<a href="https://redis.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
-</a> 
-
-<a href="https://www.elastic.co/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch-original.svg" width="40" height="40"/> 
-</a> 
-
-## **MessageQueue**
-<a href="https://kafka.apache.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> 
-</a> 
-
-
-## **DevOps**
-<a href="https://www.docker.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-</a> 
-
-<a href="https://nginx.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
-
-### **IDE**
-<a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
-</a> 
-
-<a href="https://code.visualstudio.com/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-</a>
-
-<!--
-<hr>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hgalytoby&theme=react" alt="hgalytoby" />
---->
-
-<!--
-**hgalytoby/hgalytoby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://counter.duduru.website/get/@hgalytoby?theme=rule34" alt="Profile views" />
+</p>
