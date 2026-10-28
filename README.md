@@ -2,8 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Hi+there%2C+I%27m+Dudulu+%F0%9F%91%8B;Python+Backend+Developer;Building+with+LLMs+%26+AI+tools+%F0%9F%A4%96" alt="Hi there, I'm Dudulu" />
 </p>
 
-<img width="300" align="right" src="https://i.imgur.com/ugWb6BU.gif" alt="" />
-
+<p align="center">
+  <img width="375" src="https://i.imgur.com/ugWb6BU.gif" alt="" />
+</p>
 
 ```python
 class Dudulu:
@@ -54,9 +55,6 @@ class Dudulu:
   </a>
 </p>
 
-<p align="center">
-  📝 Solutions: <a href="https://github.com/hgalytoby/LeetCode">hgalytoby/LeetCode</a>
-</p>
 
 ## 📈 Contributions
 
